@@ -1,0 +1,35 @@
+{
+    "latest_version_code": 100,
+    "latest_version_name": "1.0.0",
+    "force_update": true,
+    "apk_url": "https://supercui.netlify.app/xTimes/Hathiwaan-v1.0.0.apk",
+    "message": "استعمال کرنے کیلئے ضروری اپ ڈیٹ درکار ہے۔",
+
+
+    "main_links": {
+        "link_001": {
+            "url": "https://hathiwaan.synergize.co/index.php",
+            "zoom": 100
+        }
+    },
+
+    "internal_links": {
+        "link_001": {
+            "url": "https://hathiwaan.synergize.co/_Admin/",
+            "zoom": 100
+        }
+    },
+
+    "notifications": {
+        "topics_000": {
+            "Title": "Mandatory Notifications",
+            "topic": "Hathiwaan_Messages",
+            "value": true
+        },
+        "topics_001": {
+            "Title": "Updates",
+            "topic": "Hathiwaan_Updates",
+            "value": true
+        }
+    }
+}
